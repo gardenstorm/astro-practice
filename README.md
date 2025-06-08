@@ -1,3 +1,7 @@
+# 🖥 Live site
+
+Check out my progress on my [Helio Host site!](https://curiousrecluse.helioho.st/)
+
 # Astro Starter Kit: Minimal
 
 ```sh
